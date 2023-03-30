@@ -1,0 +1,52 @@
+.card-hero {
+    position: relative;
+    width: 100%;
+    border-radius: 0 !important;
+    border: none;
+    top: -40px;
+}
+
+.card-hero .card-text-width {
+    max-width: 640px;
+}
+
+.card-featured {
+    background-color: transparent;
+    border: none;
+}
+
+.card-banner {
+    position: relative;
+    width: 100%;
+    border-radius: 0 !important;
+    border: none;
+}
+
+.card-article {
+    border: none;
+}
+
+.card-article .thumbnail img {
+    max-width: 100%;
+}
+
+.card-article .card-body h1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -moz-box-orient: vertical;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    word-break: break-word;
+    display: -webkit-box;
+    height: 66px;
+}
+
+.login-form {
+    background: #FFFFFF;
+    box-shadow: 0px 79px 128px rgba(192, 192, 192, 0.09), 0px 28.8363px 46.7221px rgba(192, 192, 192, 0.0598508), 0px 13.9995px 22.6827px rgba(192, 192, 192, 0.0475723), 0px 6.86281px 11.1195px rgba(192, 192, 192, 0.0380675), 0px 2.71357px 4.39666px rgba(192, 192, 192, 0.0270615);
+    border-radius: 10px;
+}
+
+.md-editor {
+    width: 100%;
+}
